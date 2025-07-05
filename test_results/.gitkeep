@@ -1,0 +1,2 @@
+# This file ensures the test_results directory is preserved in git
+# Test evaluation results will be saved here

@@ -1,0 +1,9 @@
+data/musan
+data/VoxCeleb_gender
+logs/
+__pycache__/
+exp/models/*
+!exp/models/.gitkeep
+!exp/models/best_model.pt
+exp/logs/
+exp/old_exp/

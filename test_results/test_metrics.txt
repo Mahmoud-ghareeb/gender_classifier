@@ -1,0 +1,12 @@
+Loss: 0.1050
+Accuracy: 98.00%
+Precision: 0.9839
+Recall: 0.9839
+F1 Score: 0.9839
+AUC: 0.9858
+
+Confusion Matrix:
+[[TN, FP]
+ [FN, TP]]
+[[111   3]
+ [  3 183]]

@@ -1,0 +1,7 @@
+audio_file,true_label,predicted_label,probability,true_label_text,predicted_label_text,is_correct
+/home/mahmoud/data/Projects/cyshield/gender_classifier/data/VoxCeleb_gender/females/851.wav,0,1,0.8314364,not_machine,answering_machine,False
+/home/mahmoud/data/Projects/cyshield/gender_classifier/data/VoxCeleb_gender/males/48.wav,1,0,0.15846254,answering_machine,not_machine,False
+/home/mahmoud/data/Projects/cyshield/gender_classifier/data/VoxCeleb_gender/males/708.wav,1,0,0.4257734,answering_machine,not_machine,False
+/home/mahmoud/data/Projects/cyshield/gender_classifier/data/VoxCeleb_gender/females/1010.wav,0,1,0.99949396,not_machine,answering_machine,False
+/home/mahmoud/data/Projects/cyshield/gender_classifier/data/VoxCeleb_gender/females/2106.wav,0,1,0.98363495,not_machine,answering_machine,False
+/home/mahmoud/data/Projects/cyshield/gender_classifier/data/VoxCeleb_gender/males/2635.wav,1,0,0.07198916,answering_machine,not_machine,False
