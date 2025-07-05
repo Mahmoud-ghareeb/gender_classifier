@@ -4,7 +4,7 @@ A PyTorch-based audio classification system for gender detection using Wav2Vec e
 
 ## Features
 
-- **Wav2Vec models**: Transformer-based encoder models from Facebook
+- **Wav2Vec models**: Transformer-based encoder models from Facebook (facebook/wav2vec2-xls-r-300m)
 - **Binary Classification**: Detect gender in audio recordings
 
 ## Requirements
